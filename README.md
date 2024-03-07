@@ -1,4 +1,7 @@
 # hello_world.py
 #myContactApp
 
-Eine Liste
+To Do List
+
+Zu erledigen:
+blabla bla
